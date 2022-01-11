@@ -1,6 +1,6 @@
 # secrets-migrate
 
-This project is about migrating secrets from google secret manager of default project to other project's based on the organization.
+This project is about migrating secrets from google secret manager of default project to other project based on the organization.
 
 ## Setup
 Need to create a google's service account, refer this [doc](https://cloud.google.com/secret-manager/docs/reference/libraries#cloud-console). 
