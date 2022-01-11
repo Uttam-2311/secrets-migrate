@@ -19,8 +19,8 @@ public class MigrateApplication {
 
     // project Id where all the secrets are stored
     private static final String defaultProjectId = "project_id";
-    //sample CSV file with ',' seperated value of orgName and projectId.
-    private static final String sampleCsv = "sample.csv";
+    //sample CSV file with ',' separated value of orgName and projectId.
+    private static final String sampleCsv = "src/main/resources/sample.csv";
 
 
     public static void main(String[] args) throws Exception {
